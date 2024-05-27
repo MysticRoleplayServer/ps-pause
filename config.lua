@@ -4,7 +4,7 @@ Config = Config or {}
 -- # BACKGROUND SECTION # --
 ----------------------------------------------------------------------------------------------------
 -- Allows you to set the preferred background Color from a list of available options.
-Config.Background = "background_projectsloth"
+Config.Background = "background_yellow"
 
 -- Available Options --
 -- background_blue
@@ -27,8 +27,8 @@ Config.Opacity = 100
 
 Config.Header = {
     -- LEFT MENU CONFIG
-    ["TITLE"] = "Project Sloth",
-    ["SUBTITLE"] = "This little Script was made by Jay <3",
+    ["TITLE"] = "Mystic Roleplay",
+    ["SUBTITLE"] = "Serious Roleplay Server",
 
     ["MAP"] = "Map",
     ["GAME"] = "Exit Game",
@@ -42,8 +42,8 @@ Config.Header = {
     ["EDITOR"] = "Rockstar Editor",
 
     -- RIGHT MENU CONFIG
-    ["SERVER_NAME"] = "Project Sloth",
-    ["SERVER_TEXT"] = "LeSiiN is cool",
+    ["SERVER_NAME"] = "Mystic Roleplay",
+    ["SERVER_TEXT"] = "Serious Roleplay Server",
     ["SERVER_DISCORD"] = "YOUR DISCORD HERE"
 }
 
